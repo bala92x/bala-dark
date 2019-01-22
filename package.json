@@ -1,0 +1,22 @@
+{
+    "name": "bala-dark",
+    "displayName": "bala-dark",
+    "description": "Bala Dark Color Theme",
+    "version": "0.0.1",
+    "publisher": "budavolgyibalint",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bala Dark Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bala Dark Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
